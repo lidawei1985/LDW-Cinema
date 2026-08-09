@@ -1,5 +1,10 @@
 {
-  "version": 3,
+  "version": 4,
   "configUrl": "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema/main/combined.json",
-  "sha256": "7680e9decc8423a7466c5a5723668e500c46c8ef54d773ef512c2619eaa323fe"
+  "sha256": "36dd3ee651a20d3589aba7c413f0a8123e5cc9d5001d1c13b4785a81e6967198",
+  "updateTitle": "光幕影院 V3 更新",
+  "updateMessage": "V3 版本更新内容:\n\n1. 新增39个点播源(全部测试可用,按响应速度排序)\n2. 新增3个Netflix源(360/LZZY/LZ)\n3. 新增9个成人源(全部测试可用)\n4. 修复直播源(移除15个空源,保留4个有效源)\n5. 新增18个解析接口\n6. Netflix全部使用英文命名\n7. 优化海报加载和响应速度\n8. 在线更新支持新版本提醒\n\n点击确定立即更新",
+  "updateVersion": "3.0",
+  "updateUrl": "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema/main/combined.json",
+  "forceUpdate": false
 }
