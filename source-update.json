@@ -1,9 +1,9 @@
 {
   "version": 5,
   "configUrl": "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema/main/combined.json",
-  "sha256": "3849c8199faf552b1df4a8aae7004110ada0116a0886fbb41942aa532a4f2558",
-  "updateTitle": "V4 大版本更新",
-  "updateMessage": "V4 大版本更新来了！\n\n新增内容：\n• 新增7个成人源（91麻豆、大地资源、大地AV、78乐播、番号资源、鲨鱼资源x2）\n• 新增500+直播频道（央视、卫视、电影、地方台、纪录片、春晚回顾、风景直播、成人直播）\n• 总计57个点播源 + 17个直播组\n\n点击确认立即更新配置",
-  "updateVersion": "4.0",
+  "sha256": "cfcf309d7e9a730a9ba44578b6de46e41f7605a4a080f06ff63a60b864b51410",
+  "updateTitle": "V5 更新可用",
+  "updateVersion": "V5",
+  "updateMessage": "V5 版本更新可用！\n新增15个源（来自工具包资源库）:\n• 新增点播源: 非凡资源、闪电资源、乐猪影视、我爱跟剧、鱼乐资源\n• 新增成人源: 鸡坤资源、奶香香资源、91麻豆2、丝袜资源、白嫖资源、乐鱼资源、博天堂、黄色资源、量子成人、草榴资源\n总计: 72个站点 | 16组直播 | 18个解析接口\n点击确认立即更新",
   "forceUpdate": false
 }
