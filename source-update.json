@@ -1,9 +1,9 @@
 {
-  "version": 5,
-  "configUrl": "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema/main/combined.json",
-  "sha256": "141272d9ed5b65f475cbf5aedec1de179f791858c5ce30ec22cb18bb5fdf087b",
-  "updateTitle": "V5 更新可用",
-  "updateVersion": "V5",
-  "updateMessage": "V5 版本更新可用！\n新增15个源（来自工具包资源库）:\n• 新增点播源: 非凡资源、闪电资源、乐猪影视、我爱跟剧、鱼乐资源\n• 新增成人源: 鸡坤资源、奶香香资源、91麻豆2、丝袜资源、白嫖资源、乐鱼资源、博天堂、黄色资源、量子成人、草榴资源\n总计: 72个站点 | 16组直播 | 18个解析接口\n点击确认立即更新",
-  "forceUpdate": false
+    "version":  6,
+    "configUrl":  "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema/main/mobile-v248-baseline.json",
+    "sha256":  "85cdab22fbbf19184fae201a9836328dd515a2b1aec22131936ee21de13152c2",
+    "updateTitle":  "V248 基线恢复",
+    "updateVersion":  "V248",
+    "updateMessage":  "恢复到 V248 目标基线；APK 本体不变，源配置回到 V248 内置状态。",
+    "forceUpdate":  false
 }
